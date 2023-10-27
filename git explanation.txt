@@ -1,0 +1,24 @@
+it has a working directory 		Staging area 			git directory
+									(repository)
+
+
+
+we first stage files  >>>>>>>>>>>>>>>>>>>    now we commit>>>>>>>>>>>>>>>
+
+hamein staging area se guzarna padega agar save krna hai to commit krna hoga          
+				
+isme commands::: 
+	git init 		//isse git allot ho jaaega basically(that meri repository ko git repository initialise krdo)
+
+	git status 		//isme bataega kya cheez commit hai ya cheez modified hai aur kuch untracked hai
+	
+	git add . 		//files working aea se staging area main aagyi
+
+git commit -m "message"		// isse commit ho jaaega
+
+git log				// iss command se pta lag jaaega kisne changes krre hai file main
+
+	
+git config --global user.name "your_name"	// it will be shown as your name that this person has made changes
+
+git config --global user.email "your_email"	//it will be your email 
