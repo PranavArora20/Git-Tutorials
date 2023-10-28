@@ -33,5 +33,16 @@ note:: if we put --global this shows that your name and email will be valid for 
 now we can push pull i.e changes done in the text file can be push to github
 changes done on github(like we have made some changes in same text file but on github platform) we can extract the commit from pull command
 
- 
 
+*************************************************now we will add origin*********************************************************************
+origin se ek aisa web server ban jaega jisse koi bhi changes kr sake hmari repository main  //git push and git pull operations perform ho sake
+
+git remote add origin *github reepository link* 
+
+//ssh key to push and pull operations
+
+github>>>>>>>>>>>>>service(in which there are git repos)
+
+git clone *github link*  *add your customised name* 	 	//to get github repository clone(copy to our text file
+
+git diff		//through this we can get the prevoius code(before updation) and current code(after updation)
