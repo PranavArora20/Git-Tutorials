@@ -46,3 +46,4 @@ github>>>>>>>>>>>>>service(in which there are git repos)
 git clone *github link*  *add your customised name* 	 	//to get github repository clone(copy to our text file
 
 git diff		//through this we can get the prevoius code(before updation) and current code(after updation)
+git diff filename 	//aise bhi likh skte
