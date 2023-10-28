@@ -47,3 +47,11 @@ git clone *github link*  *add your customised name* 	 	//to get github repositor
 
 git diff		//through this we can get the prevoius code(before updation) and current code(after updation)
 git diff filename 	//aise bhi likh skte
+
+agar hame stage ke baad commit ni krna aur use remove krna hai to command hogi::
+	
+	git reset filename	//file unstaged ho jaaegi
+	check git status
+	then git checkout file name 	//text file se remove ho jaaega wo particular change
+
+	
